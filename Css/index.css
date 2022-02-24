@@ -105,10 +105,34 @@ input[type=button]{
 }
 
 .container-2{
-    background-color: rgb(250, 189, 167);
+    background-color: rgb(218, 150, 126);  
+    color:rgb(245, 244, 244);  
 
 }
 .section-2{
     display: inline-block;
     word-wrap: break-word;
+    width: 15%;
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-bottom: 3%;
+     color:rgb(245, 244, 244);
+     
+}
+a{
+    color:rgb(245, 244, 244);
+    margin-bottom: 5%;
+
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
+
+.img-cat{
+    border-radius: 3%;
+}
+
+.p-footer{
+    text-align: center;
+    color: grey;
 }
